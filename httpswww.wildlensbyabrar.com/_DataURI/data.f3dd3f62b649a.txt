@@ -1,1 +1,0 @@
-chrome-extension://dmghijelimhndkbmpgbldicpogfkceaj/data/rules/rules.js
